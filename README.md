@@ -15,7 +15,7 @@ To optimize the Horiseon website for search engines, I refactored the existing c
 
 ## Live
 
-[Deployed application](https://seiyam13.github.io/W01HW)
+- [Deployed application](https://seiyam13.github.io/W01HW)
 
 
 ## Credits
